@@ -1,7 +1,7 @@
 # Simplify Your Workflow: End of Manual Configs! 🎉 Run .NET Web API with SQL Server in Docker 🐳✨
+
 # Introduction
- We’re taking it up a notch by connecting our Web API to SQL Server and running everything as a Docker image! 🚀 Whether you're a seasoned developer or just starting out, this tutorial is packed with valuable insights to streamline your development process. Let's dive in 
- and see why this setup is a game-changer for modern web development! 🌐
+ We’re taking it up a notch by connecting our Web API to SQL Server and running everything as a Docker image! 🚀 Whether you're a seasoned developer or just starting out, this tutorial is packed with valuable insights to streamline your development process. Let's dive in and see why this setup is a game-changer for modern web development! 🌐
 
 # Scenario
 Imagine you’re working on a complex application that requires a robust database solution. SQLite is great for lightweight applications and development, but as your application grows, you’ll need a more powerful database like SQL Server. Running SQL Server and your Web API in Docker containers allows you to create a consistent and isolated environment, making development, testing, and deployment smoother and more efficient. Plus, it simplifies the setup process across different machines and environments. 📈
